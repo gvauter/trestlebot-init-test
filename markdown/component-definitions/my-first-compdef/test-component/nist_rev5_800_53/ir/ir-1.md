@@ -88,8 +88,6 @@ ______________________________________________________________________
 
 <!-- Note that the list of rules under ### Rules: is read-only and changes will not be captured after assembly to JSON -->
 
-<!-- Add control implementation description here for control: ir-1 -->
-
 test 100
 
 ### Rules:
