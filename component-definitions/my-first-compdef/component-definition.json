@@ -3,7 +3,7 @@
     "uuid": "e3b63147-9eb9-457a-9939-ad1e20cf102f",
     "metadata": {
       "title": "Component definition for my-first-compdef",
-      "last-modified": "2024-10-17T12:27:49.886653+00:00",
+      "last-modified": "2024-10-17T13:15:49.726654+00:00",
       "version": "1.0",
       "oscal-version": "1.1.2"
     },
@@ -6192,7 +6192,7 @@
               {
                 "uuid": "bf4ee8c3-d105-4653-aac5-e30757c7e9ec",
                 "control-id": "au-10",
-                "description": "Push to main",
+                "description": "Push to main again",
                 "props": [
                   {
                     "name": "Rule_Id",
@@ -6432,7 +6432,7 @@
               {
                 "uuid": "613563b5-5c5f-43e7-9c9a-0bdc10688d61",
                 "control-id": "ac-12",
-                "description": "",
+                "description": "test on pr",
                 "props": [
                   {
                     "name": "Rule_Id",
