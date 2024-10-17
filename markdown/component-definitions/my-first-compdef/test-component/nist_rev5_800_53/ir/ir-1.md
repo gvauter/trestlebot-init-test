@@ -90,6 +90,8 @@ ______________________________________________________________________
 
 <!-- Add control implementation description here for control: ir-1 -->
 
+test 100
+
 ### Rules:
 
   - rule-ir-1
